@@ -56,7 +56,6 @@ export function Experience() {
           {groups.map((group, gi) => {
             const { tw, hex } = getCompanyColor(group.company);
             const borderClass = tw.split(" ")[0]; // border-xxx-500
-            const bgClass = tw.split(" ")[1]; // bg-xxx-500
 
             return (
               <motion.div
@@ -85,7 +84,7 @@ export function Experience() {
                 </div>
 
                 {/* Roles at this company */}
-                {group.roles.map((role, ri) => (
+                {group.roles.map((role) => (
                   <div
                     key={role.company + role.period}
                     className="relative md:pl-12"
