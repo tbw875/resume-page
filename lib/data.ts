@@ -36,9 +36,9 @@ export const personalInfo: PersonalInfo = {
 };
 
 export const heroContent = {
-  heading: "Experienced Solutions Architect",
+  heading: "Experienced Solutions Engineering Leader",
   subheading:
-    "Highly skilled technical engineering and sales professional with 8+ years of experience in software sales, data analysis, payments, fraud, and cryptocurrency.",
+    "Technical sales leader specializing in complex enterprise sales cycles, proof-of-concept design, and verification integrations across healthcare, fintech, and identity.",
   cta: "Get In Touch",
   ctaSecondary: "See My Experience",
 };

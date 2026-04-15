@@ -12,9 +12,9 @@ import {
 import { Briefcase } from "lucide-react";
 
 const companyColors: Record<string, { tw: string; hex: string }> = {
-  Vouched: { tw: "border-emerald-500 bg-emerald-500", hex: "#10b981" },
-  Chainalysis: { tw: "border-blue-500 bg-blue-500", hex: "#3b82f6" },
-  "Ekata (a Mastercard Company)": { tw: "border-purple-500 bg-purple-500", hex: "#a855f7" },
+  Vouched: { tw: "border-[#10b981] bg-[#10b981]", hex: "#10b981" },
+  Chainalysis: { tw: "border-[#F7631A] bg-[#F7631A]", hex: "#F7631A" },
+  "Ekata (a Mastercard Company)": { tw: "border-[#3F3FA0] bg-[#3F3FA0]", hex: "#3F3FA0" },
 };
 
 const defaultColor = { tw: "border-primary bg-primary", hex: "hsl(var(--primary))" };
@@ -51,7 +51,7 @@ export function Experience() {
 
         <Accordion
           type="multiple"
-          defaultValue={[experience[0].company + experience[0].period]}
+          defaultValue={[]}
         >
           {groups.map((group, gi) => {
             const { tw, hex } = getCompanyColor(group.company);
