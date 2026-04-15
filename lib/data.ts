@@ -32,7 +32,7 @@ export const personalInfo: PersonalInfo = {
   location: "Seattle, WA",
   email: "tom@tomwalsh.xyz",
   phone: "(206) 719-5992",
-  linkedin: "https://linkedin.com/in/tomwalsh",
+  linkedin: "https://www.linkedin.com/in/tom-walsh-solutions-architect/",
 };
 
 export const heroContent = {
