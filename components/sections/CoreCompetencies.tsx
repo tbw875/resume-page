@@ -25,7 +25,7 @@ export function CoreCompetencies() {
 
       <div className="grid gap-6 md:grid-cols-3">
         {competencies.map((comp, i) => {
-          const Icon = iconMap[comp.icon] || Blocks;
+          const Icon = iconMap[comp.icon] || SquareTerminal;
           return (
             <motion.div
               key={comp.title}
