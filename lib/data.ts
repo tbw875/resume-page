@@ -103,7 +103,14 @@ export const experience: Experience[] = [
     title: "Head of Solutions Engineering",
     period: "2024 – Present",
     bullets: [
-      "Placeholder — details to be added.",
+      "Sole Solutions Engineer supporting the full sales organization, influencing **$1.54M in annual contract value**, representing 74.4% of all company-wide revenue closed.",
+      "Doubled close rates on SE-engaged deals compared to non-SE pipeline, with **3x higher average deal size** per opportunity.",
+      "Architected sophisticated verification workflow and orchestration strategies that became the company's core technical sales playbook across all telehealth accounts.",
+      "Led competitive proof-of-concept engagements resulting in **$14.8M of measurable customer value** and a **53% performance win** over incumbent solutions in head-to-head evaluations.",
+      "Drove expansion revenue through post-close technical strategy, including upsells of 3.4x and 4.2x on existing accounts via workflow enhancements.",
+      "Mentored AEs on technical positioning, collaborated on deal strategy, and ran internal enablement sessions to elevate team-wide sales engineering capabilities.",
+      "Built and maintained a fully customized demo environment enabling any employee to deliver live product demonstrations independently.",
+      "Partnered cross-functionally with AEs, product, and engineering to run end-to-end deal cycles from discovery and POC design through integration kickoff and QBR.",
     ],
   },
   {
@@ -111,12 +118,12 @@ export const experience: Experience[] = [
     title: "Manager of Solutions Architecture",
     period: "2022 – 2024",
     bullets: [
-      "Lead team of Solutions Architects in designing solution-oriented technical proofs of value to C-level executives and risk officers.",
-      "Constructed technical proofs which yielded 700% more return on investment (ROI) against competition.",
+      "Lead team of Solutions Architects in designing solution-oriented technical proofs of value to **C-level executives and risk officers**.",
+      "Constructed technical proofs which yielded **700% more return on investment (ROI)** against competition.",
       "Collaborate in a cross-functional manner on the design and demonstration of data lakehouse use cases and workflows.",
       "Establish strong relationships with key stakeholders and decision makers including economic and technical buyers.",
       "Triage and organize team workloads in order to maximize efficiency using good time management to tackle competing priorities.",
-      "Spearhead key initiatives such as development of technical sales process which yielded 5x more revenue per opportunity.",
+      "Spearhead key initiatives such as development of technical sales process which yielded **5x more revenue per opportunity**.",
     ],
   },
   {
@@ -135,8 +142,8 @@ export const experience: Experience[] = [
     title: "Account Director",
     period: "2020 – 2021",
     bullets: [
-      "Oversaw a $1.6MM value business portfolio executing focused go-to-market strategy for emerging segments.",
-      "Successfully doubled the cryptocurrency customer base covering major exchanges such as Binance and Coinbase.",
+      "Oversaw a **$1.6MM value business portfolio** executing focused go-to-market strategy for emerging segments.",
+      "Successfully **doubled the cryptocurrency customer base** covering major exchanges such as Binance and Coinbase.",
       "Streamlined the sales cycles via Strategic Selling and Winning by Design in collaboration with Digital Assets team.",
     ],
   },
