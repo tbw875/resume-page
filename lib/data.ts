@@ -149,12 +149,41 @@ export const experience: Experience[] = [
   },
   {
     company: "Ekata (a Mastercard Company)",
-    title: "Sales Engineering Manager",
-    period: "2017 – 2020",
+    title: "Manager, Solutions Architecture",
+    period: "2019 – 2020",
     bullets: [
-      "Conducted data analysis using Python and Jupyter to enhance pre-sales support and better direct Sales Engineering team.",
-      "Optimized workflows in Jira while contributing to pre-sales opportunities and fostering relationships with Coinbase and PayPal.",
+      "Led the Solutions Architecture team, directing pre-sales strategy and technical sales support across enterprise accounts.",
+      "Optimized team workflows in Jira to maximize efficiency and coverage across competing priorities.",
     ],
+  },
+  {
+    company: "Ekata (a Mastercard Company)",
+    title: "Senior Solutions Architect",
+    period: "2018 – 2019",
+    bullets: [
+      "Conducted data analysis using Python and Jupyter to enhance pre-sales technical support and accelerate discovery.",
+      "Contributed to pre-sales opportunities while building relationships with key fintech accounts.",
+    ],
+  },
+  {
+    company: "Ekata (a Mastercard Company)",
+    title: "Solutions Architect",
+    period: "2017 – 2018",
+    bullets: [
+      "Supported pre-sales technical evaluations and fostered relationships with key accounts including Coinbase and PayPal.",
+    ],
+  },
+  {
+    company: "Point Inside",
+    title: "Client Success Analyst",
+    period: "2017",
+    bullets: [],
+  },
+  {
+    company: "Point Inside",
+    title: "Data Content Technician",
+    period: "2016 – 2017",
+    bullets: [],
   },
 ];
 

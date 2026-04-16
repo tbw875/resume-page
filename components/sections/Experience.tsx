@@ -15,6 +15,7 @@ const companyColors: Record<string, { tw: string; hex: string }> = {
   Vouched: { tw: "border-[#10b981] bg-[#10b981]", hex: "#10b981" },
   Chainalysis: { tw: "border-[#F7631A] bg-[#F7631A]", hex: "#F7631A" },
   "Ekata (a Mastercard Company)": { tw: "border-[#3F3FA0] bg-[#3F3FA0]", hex: "#3F3FA0" },
+  "Point Inside": { tw: "border-[#0077CC] bg-[#0077CC]", hex: "#0077CC" },
 };
 
 const defaultColor = { tw: "border-primary bg-primary", hex: "hsl(var(--primary))" };
