@@ -100,7 +100,7 @@ export const skills: SkillCategory[] = [
 export const experience: Experience[] = [
   {
     company: "Vouched",
-    title: "Head of Solutions Engineering",
+    title: "Lead Solutions Engineer",
     period: "2024 – Present",
     bullets: [
       "Sole Solutions Engineer supporting the full sales organization, influencing **$1.54M in annual contract value**, representing 74.4% of all company-wide revenue closed.",
