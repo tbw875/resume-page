@@ -99,9 +99,15 @@ export const skills: SkillCategory[] = [
 
 export const experience: Experience[] = [
   {
+    company: "TRM Labs",
+    title: "Head of Solutions Engineering",
+    period: "June 2026 – Present",
+    bullets: [],
+  },
+  {
     company: "Vouched",
     title: "Lead Solutions Engineer",
-    period: "2024 – Present",
+    period: "2024 – June 2026",
     bullets: [
       "Sole Solutions Engineer supporting the full sales organization, influencing **$1.54M in annual contract value**, representing 74.4% of all company-wide revenue closed.",
       "Doubled close rates on SE-engaged deals compared to non-SE pipeline, with **3x higher average deal size** per opportunity.",
